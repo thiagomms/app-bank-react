@@ -8,6 +8,6 @@ extraia na sua área de trabalho,
 
 abra com VSCode,
 
-com o Terminal da pasta aberto, de um use o comando npm i
+com o Terminal da pasta aberto, de um use o comando _npm i_
 
-após a instalção do node modules, de start com o comando npm run start
+após a instalção do node modules, de start com o comando _npm run start_
